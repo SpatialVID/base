@@ -35,7 +35,7 @@ setup(
 
 setup(
     name='lietorch',
-    version='0.3',
+    version='0.2',
     description='Lie Groups for PyTorch',
     packages=['lietorch'],
     package_dir={'': 'thirdparty/lietorch'},

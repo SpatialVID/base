@@ -1,0 +1,10 @@
+# ninja log v5
+0	17808	1753790166470262205	/home/wjh/SpatialVid/lietorch/build/temp.linux-x86_64-cpython-310/lietorch/src/lietorch.o	ad75e3a8a00a293e
+0	38560	1753790187224354616	/home/wjh/SpatialVid/lietorch/build/temp.linux-x86_64-cpython-310/lietorch/src/lietorch_cpu.o	35dc40f27e119d67
+0	92377	1753790241002604134	/home/wjh/SpatialVid/lietorch/build/temp.linux-x86_64-cpython-310/lietorch/src/lietorch_gpu.o	f9515f5660411c62
+6	17269	1753790258894690181	/home/wjh/SpatialVid/lietorch/build/temp.linux-x86_64-cpython-310/lietorch/extras/extras.o	94cca47cbba6582f
+7	44084	1753790285682821663	/home/wjh/SpatialVid/lietorch/build/temp.linux-x86_64-cpython-310/lietorch/extras/se3_solver.o	4f50abfa44ece638
+5	44194	1753790285789822195	/home/wjh/SpatialVid/lietorch/build/temp.linux-x86_64-cpython-310/lietorch/extras/corr_index_kernel.o	70748976d01aebd5
+6	44236	1753790285832822408	/home/wjh/SpatialVid/lietorch/build/temp.linux-x86_64-cpython-310/lietorch/extras/se3_builder.o	ea4672026ade744b
+5	44460	1753790286053823506	/home/wjh/SpatialVid/lietorch/build/temp.linux-x86_64-cpython-310/lietorch/extras/altcorr_kernel.o	603249fd03c6cfaa
+6	45639	1753790287229829351	/home/wjh/SpatialVid/lietorch/build/temp.linux-x86_64-cpython-310/lietorch/extras/se3_inplace_builder.o	e765a89422f86c56
