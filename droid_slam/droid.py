@@ -50,7 +50,7 @@ class Droid:
     # print("multi_view_u ", multi_view_u)
     self.net = DroidNet()
     state_dict = OrderedDict([
-        (k.replace("module.", ""), v) for (k, v) in torch.load(weights).items()
+        (k.replace("module.", ""), v) for (k, v) in torch.load(weights, weights_only=False).items()
     ])
 
     state_dict["update.weight.2.weight"] = state_dict["update.weight.2.weight"][
